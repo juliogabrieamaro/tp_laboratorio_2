@@ -1,0 +1,12 @@
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\ConsoleTp3.exe.config
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\obj\Debug\ConsoleTp3.csprojResolveAssemblyReference.cache
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\ConsoleTp3.exe
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\ConsoleTp3.pdb
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\ClasesAbstractas.dll
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\ClasesInstanciables.dll
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\Exepciones.dll
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\ClasesAbstractas.pdb
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\ClasesInstanciables.pdb
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\bin\Debug\Exepciones.pdb
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\obj\Debug\ConsoleTp3.exe
+F:\Amaro.Julio.2A.TP3\ConsoleTp3\obj\Debug\ConsoleTp3.pdb

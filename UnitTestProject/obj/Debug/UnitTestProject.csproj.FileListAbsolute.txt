@@ -1,0 +1,15 @@
+F:\Amaro.Julio.2A.TP3\UnitTestProject\obj\Debug\UnitTestProject.csprojResolveAssemblyReference.cache
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\UnitTestProject.dll
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\UnitTestProject.pdb
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\Archivos.dll
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\ClasesAbstractas.dll
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\ClasesInstanciables.dll
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\ConsoleTp3.exe
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\Exepciones.dll
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\Archivos.pdb
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\ClasesAbstractas.pdb
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\ClasesInstanciables.pdb
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\ConsoleTp3.pdb
+F:\Amaro.Julio.2A.TP3\UnitTestProject\bin\Debug\Exepciones.pdb
+F:\Amaro.Julio.2A.TP3\UnitTestProject\obj\Debug\UnitTestProject.dll
+F:\Amaro.Julio.2A.TP3\UnitTestProject\obj\Debug\UnitTestProject.pdb

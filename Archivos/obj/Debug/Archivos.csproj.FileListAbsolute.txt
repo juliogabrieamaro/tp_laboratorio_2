@@ -1,0 +1,11 @@
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\Archivos.dll
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\Archivos.pdb
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\ClasesAbstractas.dll
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\ClasesInstanciables.dll
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\Exepciones.dll
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\ClasesAbstractas.pdb
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\ClasesInstanciables.pdb
+F:\Amaro.Julio.2A.TP3\Archivos\bin\Debug\Exepciones.pdb
+F:\Amaro.Julio.2A.TP3\Archivos\obj\Debug\Archivos.csprojResolveAssemblyReference.cache
+F:\Amaro.Julio.2A.TP3\Archivos\obj\Debug\Archivos.dll
+F:\Amaro.Julio.2A.TP3\Archivos\obj\Debug\Archivos.pdb

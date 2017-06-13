@@ -1,0 +1,4 @@
+F:\Amaro.Julio.2A.TP3\Exepciones\bin\Debug\Exepciones.dll
+F:\Amaro.Julio.2A.TP3\Exepciones\bin\Debug\Exepciones.pdb
+F:\Amaro.Julio.2A.TP3\Exepciones\obj\Debug\Exepciones.dll
+F:\Amaro.Julio.2A.TP3\Exepciones\obj\Debug\Exepciones.pdb
